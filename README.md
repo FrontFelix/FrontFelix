@@ -1,16 +1,19 @@
-## Hi there 👋
+# Felix Bakkum
 
-<!--
-**FrontFelix/FrontFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer @ Winvoice**
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/felix-bakkum-252b26192/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a professional full-stack developer with a passion for building robust and scalable web applications. My experience spans both frontend and backend technologies, with a focus on delivering clean and efficient solutions in fast-paced environments.
+
+---
+
+## Skills
+
+- **Frontend:** Angular, React, Next.js, React Native, Typescript (JavaScript)
+- **Backend:** Java, a bit of C#
+- **Other:** Strong understanding of modern web development best practices
